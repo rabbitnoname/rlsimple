@@ -1,0 +1,19 @@
+# ignore everything
+*
+# except .gitignore file
+!.gitignore
+# except my folder
+!README.md
+!*.py
+!DDPG/
+!DDPG/*.py
+!DQN/
+!DQN/*.py
+!FlappyBirdEnv/
+!FlappyBirdEnv/**
+!FlappyBirdEnv/assets/
+!FlappyBirdEnv/assets/audio/*
+!FlappyBirdEnv/assets/sprites/*
+!FlappyBirdEnv/images/
+!FlappyBirdEnv/images/*
+
