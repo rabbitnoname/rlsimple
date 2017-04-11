@@ -92,6 +92,10 @@ class GameEngine:
         raise NotImplementedError( "Should have implemented this, return R, S, T" )
     def step(self, action, state=None):
         raise NotImplementedError( "Should have implemented this" )
+class OpenAIGameEngine(GameEngine):
+    ...
+class FlappyBirdGameEngine(GameEngine):
+    ... 
 ```
 
 
