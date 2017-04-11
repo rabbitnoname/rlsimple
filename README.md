@@ -97,7 +97,7 @@ class OpenAIGameEngine(GameEngine):
 class FlappyBirdGameEngine(GameEngine):
     ... 
 ```
-## for details about the algorithm & results, please refer to the <a href="https://wordpress.com/stats/day/rl123blog.wordpress.com">Blog</a>.
+## for details about the algorithm & results, please refer to the <a href="https://rl123blog.wordpress.com/">Blog</a>.
 
 
 # References
